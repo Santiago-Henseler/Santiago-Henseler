@@ -4,7 +4,7 @@
 - 🤝Actualmente no estoy trabajando en ningun proyecto
 
 <h3 align="left">💬 Para contactarse conmigo:</h3>
-- : **shenseler@fi.uba.com**
+- 📧 Mail: shenseler@fi.uba.com
 <p align="left">
 </p>
 
