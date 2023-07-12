@@ -1,8 +1,10 @@
 <h1 align="center">Hola 👋, me llamo Santiago Henseler</h1>
 <h3 align="center">📝Soy estudiante de ingenieria en informatica en la FIUBA.</h3>
 
-- 🤝Actualmente no estoy trabajando en ningun proyecto
-- 
+
+- 🗃️ Actualmente no estoy trabajando en ningun proyecto
+- 💻 Estoy en el segundo año de mi carrera
+  
 <hr />
 
 <h3 align="left">💬 Para contactarse conmigo:</h3>
