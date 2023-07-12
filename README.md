@@ -3,10 +3,8 @@
 
 - 🤝Actualmente no estoy trabajando en ningun proyecto
 
-- 💬 Para contactarse conmigo: **shenseler@fi.uba.com**
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💬 Para contactarse conmigo:</h3>
+- : **shenseler@fi.uba.com**
 <p align="left">
 </p>
 
