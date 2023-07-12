@@ -2,14 +2,13 @@
 <h3 align="center">📝Soy estudiante de ingenieria en informatica en la FIUBA.</h3>
 
 - 🤝Actualmente no estoy trabajando en ningun proyecto
-
+- 
 <hr />
 
 <h3 align="left">💬 Para contactarse conmigo:</h3>
 - 📧 Mail: shenseler@fi.uba.com
 <p align="left">
 </p>
-
 <hr />
 
 <h3 align="left">Lenguajes y herramientas que manejo:</h3>
