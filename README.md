@@ -10,7 +10,7 @@
 - 🔭 Actualmente no estoy trabajando en ningun proyecto
 - 💻 Estoy en el segundo año de mi carrera
 - ⚡ Me encata usar linux
-- 🗃️ Odio el diseño grafico 
+- 💻 Programo en c y en phyton 
 
 <br />
 
