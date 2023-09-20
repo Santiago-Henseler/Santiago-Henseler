@@ -6,12 +6,19 @@
 <img align="right" alt="Coding" width="400" src="https://gotoclient.com/wp-content/uploads/2019/10/marketing-gif-2-1.gif">
 
 <br />
+<br />
+
 
 - 💼 Actualmente no estoy trabajando en ningun proyecto
 - 📝 Estoy en el segundo año de mi carrera
 - 💻 linux mint y Windows 10
 - ⌨️ Programo en c, phyton y javascript
 - 🔌 Cómo hobby hago páginas webs 
+
+<br/>
+<he/>
+
+Mis notas ee la carrera son: [notas](https://docs.google.com/spreadsheets/d/1bN4MPfwpkYLNvE_QgxWl0_l3uuxe1Knw/edit?usp=drivesdk&ouid=107057273326789953692&rtpof=true&sd=true)
 
 <br />
 
