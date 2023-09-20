@@ -16,13 +16,19 @@
 - 🔌 Cómo hobby hago páginas webs 
 
 <br/>
-<he/>
+<hr/>
 
-Mis notas ee la carrera son: [notas](https://docs.google.com/spreadsheets/d/1bN4MPfwpkYLNvE_QgxWl0_l3uuxe1Knw/edit?usp=drivesdk&ouid=107057273326789953692&rtpof=true&sd=true)
-
+Mis notas de la carrera son: [notas](https://docs.google.com/spreadsheets/d/1bN4MPfwpkYLNvE_QgxWl0_l3uuxe1Knw/edit?usp=drivesdk&ouid=107057273326789953692&rtpof=true&sd=true)
 <br />
 
+Los trabajos que hice para la carrera son: [trabajos]()
 
+<br />
+<hr/>
+
+Las páginas webs que programe son: [páginas]()
+
+<br />
 <h3 align="left">💬 Para contactarse conmigo:</h3>
 - 📧 Mail: shenseler@fi.uba.com
 <p align="left">
