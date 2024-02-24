@@ -10,7 +10,7 @@
 
 
 - 💼 Actualmente no estoy trabajando en ningun proyecto
-- 📝 Estoy en el segundo año de mi carrera
+- 📝 Estoy en el tercer año de mi carrera
 - 💻 linux mint y Windows 10
 - ⌨️ Programo en c, phyton y javascript
 - 🔌 Cómo hobby hago páginas webs 
