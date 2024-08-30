@@ -6,7 +6,7 @@
 - 💼 I'm developing frontend web [pages](https://github.com/stars/Santiago-Henseler/lists/paginas).
 - 📝 Currently in the third year of my degree and these are my [grades](https://docs.google.com/spreadsheets/d/1bN4MPfwpkYLNvE_QgxWl0_l3uuxe1Knw/edit?usp=drivesdk&ouid=107057273326789953692&rtpof=true&sd=true).
 - 💻 Using the linux environment.
-- ⌨️  Writing apps in c, Java, Phyton, Rusty Javascript.
+- ⌨️  Writing apps in c, Java, Phyton, Rust y Javascript.
 
 <br/>
 
